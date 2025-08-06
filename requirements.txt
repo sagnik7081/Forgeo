@@ -1,0 +1,11 @@
+shutil
+json
+torch
+torchvision
+numpy
+pandas
+matplotlib
+torch
+torchvision
+streamlit
+Pillow
